@@ -1,5 +1,7 @@
 # use-scoped
 
+> Reserved name. Not implementation yet, it will coming soon! Thanks for your interest, comeback later)
+
 [![npm version](https://img.shields.io/npm/v/use-scoped?style=flat-square)](https://www.npmjs.com/package/use-scoped) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/use-scoped?style=flat-square)](https://bundlephobia.com/result?p=use-scoped) [![build status](https://img.shields.io/github/workflow/status/betula/use-scoped/Tests?style=flat-square)](https://github.com/betula/use-scoped/actions?workflow=Tests) [![code coverage](https://img.shields.io/coveralls/github/betula/use-scoped?style=flat-square)](https://coveralls.io/github/betula/use-scoped) [![typescript supported](https://img.shields.io/npm/types/typescript?style=flat-square)](https://github.com/betula/use-scoped)
 
 Easy hooks scoping for React
