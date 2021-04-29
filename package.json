@@ -1,6 +1,6 @@
 {
   "name": "use-scoped",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Easy hooks scoping for React",
   "repository": {
     "url": "https://github.com/betula/use-scoped"
