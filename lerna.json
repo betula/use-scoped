@@ -1,0 +1,8 @@
+{
+  "version": "0.0.18",
+  "packages": [
+    "."
+  ],
+  "npmClient": "npm",
+  "loglevel": "verbose"
+}
